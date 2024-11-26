@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.text-right {
+    text-align: right;
+    margin-right: 20px;
+}
